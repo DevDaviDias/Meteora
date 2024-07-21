@@ -13,8 +13,6 @@
 ### Vizualizar meu projeto : https://devdavidias.github.io/Meteora/
 ## Imagens do projeto:
 
-![Captura de tela 2024-07-20 214831](https://github.com/user-attachments/assets/eecfe333-078f-4f59-bb1e-35f9ab50e43b)
-![Captura de tela 2024-07-20 214854](https://github.com/user-attachments/assets/3e5f82cd-625b-47d6-b112-adaaaabddfd1)
 ![Captura de tela 2024-07-20 212747](https://github.com/user-attachments/assets/ca3ffdd4-9f15-4106-9c27-b602d99da047)
 ![Captura de tela 2024-07-20 212830](https://github.com/user-attachments/assets/35f26825-b10d-48c8-8ae5-24c7adc66ca1)
 ![Captura de tela 2024-07-20 214413](https://github.com/user-attachments/assets/2d817756-745e-4393-8e3c-4b789b689796)
