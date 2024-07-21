@@ -10,8 +10,7 @@
 
 
 br
-### Vizualizar meu projeto : h[ttps://bit.ly/DevDaviDias](https://devdavidias.github.io/Meteora/)
-
+### Vizualizar meu projeto : https://devdavidias.github.io/Meteora/
 ## Imagens do projeto:
 
 ![Captura de tela 2024-07-20 212747](https://github.com/user-attachments/assets/ca3ffdd4-9f15-4106-9c27-b602d99da047)
